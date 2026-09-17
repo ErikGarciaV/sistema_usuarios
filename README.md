@@ -95,7 +95,7 @@ python3 --version
 ### 2. Clone o projeto
 
 ```bash
-git clone https://github.com/ErikGarciaV/sistema-usuarios.git
+git clone https://github.com/ErikGarciaV/sistema_usuarios
 ```
 
 Entre na pasta:
