@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/Data-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![SHA-256](https://img.shields.io/badge/Security-SHA--256-4CAF50?style=for-the-badge)
+
 Sistema de gerenciamento de usuários desenvolvido em **Python**, utilizando **JSON** para armazenamento dos dados e **SHA-256** para criptografia das senhas.
 
 O projeto permite cadastrar, listar, buscar, editar e excluir usuários através de um menu executado no terminal.
